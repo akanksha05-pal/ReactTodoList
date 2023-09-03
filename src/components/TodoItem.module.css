@@ -1,0 +1,8 @@
+.container{
+    max-width:80%;
+    margin:0 auto;
+    background-color: rgb(230, 230, 22);
+    border-radius: 18px;
+    padding:10px;
+    margin-bottom: 5px;
+}
